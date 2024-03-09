@@ -10,7 +10,7 @@ Many studies have shown mindfulness practices reduce anxiety and depression, and
 
 This research aims to provide empirical evidence on mindfulness meditation’s efficacy in promoting better decision-making under stress and improved sleep quality among firefighters.
 
-/firefighter.jpg
+/assets/firefighter.jpg
 
 ### Research Question 
 #### Research Question 1: Relative to firefighters who do not practice mindfulness meditation, would the mindfulness meditation program lead to better decision-making accuracy under stress among firefighters?
@@ -122,9 +122,6 @@ Sample Size
 
 The sample size is determined by using the sample size formula: These are approximate because they are based on the normal distribution rather than the t distribution. Since σ and δ are not known exactly, the additional error added by using the normal distribution is not important unless the sample sizes are very small.
 
-- n = \left( \frac{Z_{\alpha/2} + Z_{\beta}}{\delta / \sigma} \right)^2
-- _n_ =(_Zα_ / _2_ _+_ _Zβδ_ / _σ_ ) _2_
-- _n_ = (_1.96_ _+_ _1.280.05/0.52)2
 
 n=2274
 
