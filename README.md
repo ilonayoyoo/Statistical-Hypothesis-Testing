@@ -17,7 +17,7 @@ This research aims to provide empirical evidence on mindfulness meditation’s e
 
 Null Hypothesis, H0A: There is no significant increase in the mean accuracy of decision-making under stress between the two groups.
 
-Alternative Hypothesis, H1A: There is a significant increase in the mean accuracy of decision-making under stress between the two groups.
+Alternative Hypothesis, H1A: There is a significant increase in the mean accuracy of decision-making under stress between the two groups:
    H0A:μT−μC≤0
    H1A:μT−μC>0 Where:
    μT: The mean accuracy of decision-making under stress for firefighters who practice regular mindfulness meditation.
