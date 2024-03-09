@@ -21,10 +21,10 @@ There is no significant increase in the mean accuracy of decision-making under s
 **Alternative Hypothesis H1A**: 
 There is a significant increase in the mean accuracy of decision-making under stress between the two groups:
 
-_H0A_: _μT_ − _μC_ ≤ 0
-_H1A_ : _μT_ − _μC_ > 0 _Where_ :
-_μT_ : The mean accuracy of decision-making under stress for firefighters who practice regular mindfulness meditation.
-     _μC_ : The mean accuracy of decision-making under stress for firefighters who do not practice regular mindfulness meditation.
+- _H0A_: _μT_ − _μC_ ≤ 0
+- _H1A_ : _μT_ − _μC_ > 0 _Where_ :
+- _μT_ : The mean accuracy of decision-making under stress for firefighters who practice regular mindfulness meditation.
+- _μC_ : The mean accuracy of decision-making under stress for firefighters who do not practice regular mindfulness meditation.
 
 
 #### Research Question 2: Relative to firefighters who do not practice mindfulness meditation, would the mindfulness meditation program lead to a better decision-making reaction time under stress among firefighters?
