@@ -4,11 +4,11 @@
 ### Statement of the Problem
 
 
-Emergency responders like firefighters are crucial for community safety, yet the demanding nature of their work can lead to chronic stress, impaired decision-making, and poor sleep quality (Ángel et al., 2022). Improving these aspects could enhance the emergency services, and firefighter’s well-being, potentially saving more lives. 
+- Emergency responders like firefighters are crucial for community safety, yet the demanding nature of their work can lead to chronic stress, impaired decision-making, and poor sleep quality (Ángel et al., 2022). Improving these aspects could enhance the emergency services, and firefighter’s well-being, potentially saving more lives. 
 
-Many studies have shown mindfulness practices reduce anxiety and depression, and improve concentration and attention (American Psychological Association, 2019), these are crucial for effective decision-making in high-stress situations which are typical for firefighters.
+- Many studies have shown mindfulness practices reduce anxiety and depression, and improve concentration and attention (American Psychological Association, 2019), these are crucial for effective decision-making in high-stress situations which are typical for firefighters.
 
-This research aims to provide empirical evidence on mindfulness meditation’s efficacy in promoting better decision-making under stress and improved sleep quality among firefighters.
+- This research aims to provide empirical evidence on mindfulness meditation’s efficacy in promoting better decision-making under stress and improved sleep quality among firefighters.
 
 /assets/firefighter.jpg
 
