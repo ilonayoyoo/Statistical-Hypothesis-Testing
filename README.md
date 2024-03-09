@@ -19,16 +19,11 @@ This research aims to provide empirical evidence on mindfulness meditation’s e
 
 **Alternative Hypothesis H1A**: There is a significant increase in the mean accuracy of decision-making under stress between the two groups:
 
-   _H0A_: _μT_ − _μC_ ≤ 0
-   _H1A_ : _μT_ − _μC_ > 0 _Where_ :
-   _μT_ : The mean accuracy of decision-making under stress for firefighters who practice regular mindfulness meditation.
-   _μC_ : The mean accuracy of decision-making under stress for firefighters who do not practice regular mindfulness meditation.
-   $$
-H_{0A}:μ_{T} - μ_{C} ≤ 0
-$$
-$$
-H_{1A}: μ_{T} - μ_{C} > 0
-$$
+     _H0A_: _μT_ − _μC_ ≤ 0
+     _H1A_ : _μT_ − _μC_ > 0 _Where_ :
+     _μT_ : The mean accuracy of decision-making under stress for firefighters who practice regular mindfulness meditation.
+     _μC_ : The mean accuracy of decision-making under stress for firefighters who do not practice regular mindfulness meditation.
+
 
 #### Research Question 2: Relative to firefighters who do not practice mindfulness meditation, would the mindfulness meditation program lead to a better decision-making reaction time under stress among firefighters?
 (Refer to Operational Procedures for detailed information on how variables are measured)
@@ -36,8 +31,8 @@ $$
 **Null Hypothesis H0B**: The mean reaction time under stress of emergency responders who practise regular mindfulness meditation is not significantly faster than those who do not.
 **Alternative Hypothesis H1B**: The mean reaction time under stress of emergency responders who practice regular mindfulness meditation is significantly faster than those who do not
 
-_H0B_: _μT_ − _μC_ ≤ 0
-_H1B_ : _μT_ − _μC_ > 0 _Where_ :
+_H0B_: _rT_ − _rC_ ≤ 0
+_H1B_ : _rT_ − _rC_ > 0 _Where_ :
 _гT_: The mean reaction time under stress for firefighters who practice regular mindfulness meditation.
 _гC_: The mean reaction time under stress for firefighters who do not practice regular mindfulness meditation.
 
@@ -48,14 +43,18 @@ Null Hypothesis, H0C: The mean sleep quality score of emergency responders who p
 Alternative Hypothesis, H1C: The mean sleep quality score of emergency responders who practice regular mindfulness meditation is significantly higher than those who do not.
 _H0C_ : _𝘲T_ − _𝘲C_ ≤0
 _H1C_ : _𝘲T_ − _𝘲C_ >0 Where:
-𝘲T: The mean sleep quality of firefighters who practice regular mindfulness meditation.
-𝘲C
+_𝘲T_ : The mean sleep quality of firefighters who practice regular mindfulness meditation.
+_𝘲C_ : The mean sleep quality of firefighters who do not practice regular mindfulness meditation. 
 
 
 ### Research Plan
 #### Population of Interest
 
-The population of interest for this study focuses on firefighters across various states in the United States, with the research plan focusing on a randomized sampling method that minimizes bias. Given the challenge of splitting individuals into treatment and control groups within the same firefighting units, especially when they work closely together in the same station that the decision made by one firefighter may have a significant impact on their peers, our study proposes randomization at the firefighting station level. This approach not only considered potential biases due to working relationships among firefighters but also the stations selected for this study were carefully chosen to reflect the diverse geographic locations, sizes, and demographic compositions found across the entire country, ensuring a comprehensive and representative sample that mirrors the national landscape of firefighting stations.
+The population of interest for this study focuses on firefighters across various states in the United States, with the research plan focusing on a randomized sampling method that minimizes bias. 
+
+Given the challenge of splitting individuals into treatment and control groups within the same firefighting units, especially when they work closely together in the same station that the decision made by one firefighter may have a significant impact on their peers, our study proposes randomization at the firefighting station level.
+
+This approach not only considered potential biases due to working relationships among firefighters but also the stations selected for this study were carefully chosen to reflect the diverse geographic locations, sizes, and demographic compositions found across the entire country, ensuring a comprehensive and representative sample that mirrors the national landscape of firefighting stations.
 
 
 #### Sample Selection
