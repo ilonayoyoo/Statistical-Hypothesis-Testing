@@ -134,17 +134,6 @@ is the sample size needed per group.
 - σ is the standard deviation of the outcome measure (σ
 
 is chosen to be 0.52 based on a similar research study done).
-Possible Recommendations
 
-Scenario 1: Null Hypothesis Not Rejected
-If the study does not find significant evidence to reject the null hypothesis, it suggests that mindfulness meditation may not have a measurable impact on decision-making accuracy or sleep quality in emergency responders compared to the control group. In this case, we recommend broadening the scope of research to explore other potential interventions and strategies that could effectively enhance decision-making capabilities and sleep quality in emergency responders. This could include different types of stress management techniques, physical wellness programs, or cognitive-behavioral approaches. It’s important to note that the lack of observed effect in this study does not categorically rule out the benefits of mindfulness; it may still have subjective or unmeasured benefits. Further research could explore these aspects or different methodologies for mindfulness training.
-
-Scenario 2: Null Hypothesis Rejected
-If the null hypothesis is rejected, indicating a significant positive impact of mindfulness meditation on decision-making and sleep quality among emergency responders, we advocate for the integration of mindfulness practices into their routine training and wellness programs. It will be important to develop a structured mindfulness meditation program tailored to the unique needs and schedules of emergency responders. This program should be designed to be easily accessible and feasible to implement within their existing work structure. Additionally, we recommend ongoing research to continuously evaluate and refine the mindfulness program, ensuring its effectiveness and alignment with the evolving needs of emergency responders.
-Limitations
-
-For research problem 2, we are setting the seed to 4172; for both the control group and the treatment group, the mean decision-making time is set to 80 seconds, and standard deviation is set to 80 seconds. For reference found, the mean of decision-making time is set to be 80 seconds and standard deviation to be 40 seconds (Fire and EMS Department, n.d.).
-
-For research problem 3, we are setting the seed to 4172; for both the control group and the treatment group, the mean deep-sleep percentage is set to 50% (0.5), and standard deviation is set to 0.1 (Rusch et al., n.d.). The reference of setting the proportion between the deep-sleep percentage and the standard deviation here is from a similar report aiming to test the effect of mindfulness meditation on sleep quality.
-
+Simulation please see R code
 
