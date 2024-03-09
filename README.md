@@ -10,7 +10,7 @@
 
 - This research aims to provide empirical evidence on mindfulness meditation’s efficacy in promoting better decision-making under stress and improved sleep quality among firefighters.
 
-/assets/firefighter.jpg
+/asset/images/firefighter.jpg
 
 ### Research Question 
 #### Research Question 1: Relative to firefighters who do not practice mindfulness meditation, would the mindfulness meditation program lead to better decision-making accuracy under stress among firefighters?
