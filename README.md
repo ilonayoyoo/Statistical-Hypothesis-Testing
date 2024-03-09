@@ -12,6 +12,13 @@
 
 /asset/images/firefighter.jpg
 
+
+
+Try this markdown:
+
+![alt text](http://url/to/img.png)
+
+
 ### Research Question 
 #### Research Question 1: Relative to firefighters who do not practice mindfulness meditation, would the mindfulness meditation program lead to better decision-making accuracy under stress among firefighters?
 (Refer to Operational Procedures for detailed information on how variables are measured)
