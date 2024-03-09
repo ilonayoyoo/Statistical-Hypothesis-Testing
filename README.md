@@ -10,7 +10,7 @@ Many studies have shown mindfulness practices reduce anxiety and depression, and
 
 This research aims to provide empirical evidence on mindfulness meditation’s efficacy in promoting better decision-making under stress and improved sleep quality among firefighters.
 
-/firefighter.png
+/firefighter.jpg
 
 ### Research Question 
 #### Research Question 1: Relative to firefighters who do not practice mindfulness meditation, would the mindfulness meditation program lead to better decision-making accuracy under stress among firefighters?
@@ -51,10 +51,10 @@ The mean sleep quality score of emergency responders who practice regular mindfu
 **Alternative Hypothesis H1C**: 
 The mean sleep quality score of emergency responders who practice regular mindfulness meditation is significantly higher than those who do not.
 
-     _H0C_ : _𝘲T_ − _𝘲C_ ≤0
-     _H1C_ : _𝘲T_ − _𝘲C_ >0 Where:
-     _𝘲T_ : The mean sleep quality of firefighters who practice regular mindfulness meditation.
-     _𝘲C_ : The mean sleep quality of firefighters who do not practice regular mindfulness meditation. 
+- _H0C_ : _𝘲T_ − _𝘲C_ ≤0
+- _H1C_ : _𝘲T_ − _𝘲C_ >0 Where:
+- _𝘲T_ : The mean sleep quality of firefighters who practice regular mindfulness meditation.
+- _𝘲C_ : The mean sleep quality of firefighters who do not practice regular mindfulness meditation. 
 
 
 ### Research Plan
@@ -78,19 +78,18 @@ According to the federal data of wildfire statistics and fire report from the Na
 For our data collection process, we will focus on measuring two key outcomes: sleep quality and decision-making accuracy and speed. To assess sleep quality, we will utilize data extracted from smartwatches worn by the firefighters during their sleep. This method allows for a non-intrusive recording of various sleep parameters and ensures accuracy. The smartwatches will track metrics such as duration of sleep, percentage of time of deep sleep, heart rate, and restfulness, providing a comprehensive overview of the firefighters’ sleep quality. This data will be collected for both the control and treatment groups, enabling a thorough comparison between them.
 
 To gauge decision accuracy, we will invite senior police officers and fire managers to evaluate the participants’ response accuracy. They will use a rating scale ranging from 0 to 10, with higher scores indicating greater accuracy. For measuring reaction time, the time taken by participants to respond to specific scenarios will be recorded using a stopwatch, with the measurements being captured in seconds. This dual-metric approach allows us to comprehensively assess both the quality and speed of decision-making among the firefighter participants.
-Variables
-
+_Variables_
 
      Decision-making accuracy
      Decision-making reaction time
      Sleep Quality
      Stress Level
 
-Treatments (Independent Variables):
+_Treatments_  (Independent Variables):
 
     Two months of mindfulness meditation training
 
-Other Variables:
+_Other Variables_:
 
     Age
     Working experience( length of working)
@@ -102,20 +101,20 @@ Other Variables:
 ### Statistical Analysis Plan
 
 #### Research Question 1: Decision-Making Accuracy
-Statistical Method: Two-sample, One-sided t-test.
-Dependent Variable (DV): Decision-making accuracy under stress score scaling from 0 to 10
+- Statistical Method: Two-sample, One-sided t-test.
+- Dependent Variable (DV): Decision-making accuracy under stress score scaling from 0 to 10
 
 This test is ideal for comparing the means of treatment and control groups firefighters practicing mindfulness meditation vs. those who do not. Given that decision-making accuracy is a continuous variable, the t-test will efficiently test the hypothesis of whether there is a significant difference in mean accuracy between the two groups.
 
 #### Research Question 2: Decision-Making Reaction Time
-Statistical Method: Two-sample, One-sided t-test.
-Dependent Variable (DV): Reaction time under stress, record by time watch.
+- Statistical Method: Two-sample, One-sided t-test.
+- Dependent Variable (DV): Reaction time under stress, record by time watch.
 
 Rationale: Since reaction time is a continuous variable, a two-sample t-test is appropriate to compare the mean reaction times of treatment and control groups. This method will assess if the mindfulness meditation program leads to a statistically significant improvement in reaction time.
 
 #### Research Question 3: Sleep Quality
-Statistical Method: Two-sample, One-sided t-test.
-Dependent Variable (DV): Sleep quality scores, continuous score based on sleep metrics.
+- Statistical Method: Two-sample, One-sided t-test.
+- Dependent Variable (DV): Sleep quality scores, continuous score based on sleep metrics.
 
 Rationale: As with the previous variables, sleep quality scores are continuous and will be compared between treatment and control groups. The two-sample t-test is suitable for testing if there is a significant difference in mean sleep quality scores between those who practice mindfulness meditation and those who do not.
 Sample Size
@@ -123,8 +122,9 @@ Sample Size
 
 The sample size is determined by using the sample size formula: These are approximate because they are based on the normal distribution rather than the t distribution. Since σ and δ are not known exactly, the additional error added by using the normal distribution is not important unless the sample sizes are very small.
 
-n=(Zα/2+Zβδ/σ)2
-n=(1.96+1.280.05/0.52)2
+- n = \left( \frac{Z_{\alpha/2} + Z_{\beta}}{\delta / \sigma} \right)^2
+- _n_ =(_Zα_ / _2_ _+_ _Zβδ_ / _σ_ ) _2_
+- _n_ = (_1.96_ _+_ _1.280.05/0.52)2
 
 n=2274
 
