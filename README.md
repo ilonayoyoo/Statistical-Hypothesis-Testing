@@ -10,6 +10,7 @@ Many studies have shown mindfulness practices reduce anxiety and depression, and
 
 This research aims to provide empirical evidence on mindfulness meditation’s efficacy in promoting better decision-making under stress and improved sleep quality among firefighters.
 
+/firefighter.png
 
 ### Research Question 
 #### Research Question 1: Relative to firefighters who do not practice mindfulness meditation, would the mindfulness meditation program lead to better decision-making accuracy under stress among firefighters?
@@ -36,10 +37,10 @@ The mean reaction time under stress of emergency responders who practise regular
 **Alternative Hypothesis H1B**: 
 The mean reaction time under stress of emergency responders who practice regular mindfulness meditation is significantly faster than those who do not
 
-     _H0B_: _rT_ − _rC_ ≤ 0
-     _H1B_ : _rT_ − _rC_ > 0 _Where_ :
-     _гT_: The mean reaction time under stress for firefighters who practice regular mindfulness meditation.
-     _гC_: The mean reaction time under stress for firefighters who do not practice regular mindfulness meditation.
+- _H0B_: _rT_ − _rC_ ≤ 0
+- _H1B_ : _rT_ − _rC_ > 0 _Where_ :
+- _гT_: The mean reaction time under stress for firefighters who practice regular mindfulness meditation.
+- _гC_: The mean reaction time under stress for firefighters who do not practice regular mindfulness meditation.
 
 #### Research question 3: Relative to firefighters who do not practice mindfulness meditation, would one mindfulness meditation program lead to better sleep quality among firefighters?
 (Refer to Operational Procedures for detailed information on how variables are measured)
